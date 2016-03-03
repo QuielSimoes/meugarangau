@@ -1,0 +1,420 @@
+# LANGUAGE translation of CakePHP Application
+# Copyright YEAR NAME <EMAIL@ADDRESS>
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"POT-Creation-Date: 2015-10-30 17:04+0000\n"
+"PO-Revision-Date: YYYY-mm-DD HH:MM+ZZZZ\n"
+"Last-Translator: NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <EMAIL@ADDRESS>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+#: Controller/CategoriasController.php:66
+msgid "A Categoria não pode ser salva. Por favor, tente novamente."
+msgstr ""
+
+#: Controller/CategoriasController.php:92
+msgid "The categoria has been saved."
+msgstr ""
+
+#: Controller/CategoriasController.php:95
+msgid "The categoria could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/CategoriasController.php:114
+msgid "Categoria deletada"
+msgstr ""
+
+#: Controller/CategoriasController.php:116
+msgid "A Categoria não pode ser deletada. Por favor, tente novamente."
+msgstr ""
+
+#: Controller/ContasController.php:61
+msgid "A Conta não pode ser salva. Por favor, tente novamente."
+msgstr ""
+
+#: Controller/ContasController.php:97
+msgid "Conta deletada"
+msgstr ""
+
+#: Controller/ContasController.php:99
+msgid "A Conta não pode ser deletada. Por favor, tente novamente."
+msgstr ""
+
+#: Controller/FormaPagamentosController.php:61
+msgid "A Forma de Pagamento não pode ser salva. Por favor, tente novamente."
+msgstr ""
+
+#: Controller/FormaPagamentosController.php:97
+msgid "Forma de Pagamento deletada"
+msgstr ""
+
+#: Controller/FormaPagamentosController.php:99
+msgid "A Forma de Pagamento não pode ser deletada. Por favor, tente novamente."
+msgstr ""
+
+#: Controller/FornecedoresController.php:61
+msgid "O Fornecedor não pode ser salvo. Por favor, tente novamente."
+msgstr ""
+
+#: Controller/FornecedoresController.php:97
+msgid "Fornecedor deletado"
+msgstr ""
+
+#: Controller/FornecedoresController.php:99
+msgid "O Fornecedor não pode ser deletado. Por favor, tente novamente."
+msgstr ""
+
+#: Controller/LancamentosController.php:125
+msgid "O Lançamento não pôde ser salvo. Por favor, tente novamente."
+msgstr ""
+
+#: Controller/LancamentosController.php:171
+msgid "Lançamento deletado"
+msgstr ""
+
+#: Controller/LancamentosController.php:173
+msgid "A Lançamento não pôde ser deletado. Por favor, tente novamente."
+msgstr ""
+
+#: Template/Categorias/add.ctp:2
+msgid "Listar Categorias"
+msgstr ""
+
+#: Template/Categorias/edit.ctp:3
+#: Template/Categorias/view.ctp:3;36
+#: Template/Contas/edit.ctp:3
+#: Template/Contas/view.ctp:3;35
+#: Template/FormaPagamentos/edit.ctp:3
+#: Template/FormaPagamentos/view.ctp:3;35
+#: Template/Fornecedores/edit.ctp:3
+#: Template/Fornecedores/view.ctp:3
+#: Template/Lancamentos/edit.ctp:3
+#: Template/Lancamentos/view.ctp:3
+msgid "Actions"
+msgstr ""
+
+#: Template/Categorias/edit.ctp:5
+#: Template/Categorias/view.ctp:48
+#: Template/Contas/edit.ctp:5
+#: Template/Contas/view.ctp:50
+#: Template/FormaPagamentos/edit.ctp:5
+#: Template/FormaPagamentos/view.ctp:50
+#: Template/Fornecedores/edit.ctp:5
+#: Template/Lancamentos/edit.ctp:5
+msgid "Delete"
+msgstr ""
+
+#: Template/Categorias/edit.ctp:7
+#: Template/Categorias/view.ctp:5;48
+#: Template/Contas/edit.ctp:7
+#: Template/Contas/view.ctp:5;50
+#: Template/FormaPagamentos/edit.ctp:7
+#: Template/FormaPagamentos/view.ctp:5;50
+#: Template/Fornecedores/edit.ctp:7
+#: Template/Fornecedores/view.ctp:5
+#: Template/Lancamentos/edit.ctp:7
+#: Template/Lancamentos/view.ctp:5
+msgid "Are you sure you want to delete # {0}?"
+msgstr ""
+
+#: Template/Categorias/edit.ctp:10;11
+#: Template/Categorias/view.ctp:6;8
+#: Template/Lancamentos/edit.ctp:11
+#: Template/Lancamentos/view.ctp:8
+msgid "List Categorias"
+msgstr ""
+
+#: Template/Categorias/edit.ctp:12
+#: Template/Categorias/view.ctp:7;9
+#: Template/Lancamentos/edit.ctp:12
+#: Template/Lancamentos/view.ctp:9
+msgid "New Categoria"
+msgstr ""
+
+#: Template/Categorias/edit.ctp:18
+#: Template/Categorias/view.ctp:4
+msgid "Edit Categoria"
+msgstr ""
+
+#: Template/Categorias/edit.ctp:24
+#: Template/Contas/edit.ctp:23
+#: Template/FormaPagamentos/edit.ctp:23
+#: Template/Fornecedores/edit.ctp:25
+#: Template/Lancamentos/edit.ctp:33
+msgid "Submit"
+msgstr ""
+
+#: Template/Categorias/index.ctp:2
+msgid "Nova Categoria"
+msgstr ""
+
+#: Template/Categorias/view.ctp:5
+msgid "Delete Categoria"
+msgstr ""
+
+#: Template/Categorias/view.ctp:16;35
+#: Template/Contas/view.ctp:16
+#: Template/FormaPagamentos/view.ctp:16
+#: Template/Fornecedores/view.ctp:14
+msgid "Nome"
+msgstr ""
+
+#: Template/Categorias/view.ctp:20;33
+#: Template/Contas/view.ctp:20;29
+#: Template/FormaPagamentos/view.ctp:20;29
+#: Template/Fornecedores/view.ctp:34
+#: Template/Lancamentos/view.ctp:38
+msgid "Id"
+msgstr ""
+
+#: Template/Categorias/view.ctp:24;34
+#: Template/Contas/view.ctp:30
+#: Template/FormaPagamentos/view.ctp:30
+msgid "Categoria Id"
+msgstr ""
+
+#: Template/Categorias/view.ctp:29
+msgid "Related Categorias"
+msgstr ""
+
+#: Template/Categorias/view.ctp:44
+#: Template/Contas/view.ctp:46
+#: Template/FormaPagamentos/view.ctp:46
+msgid "View"
+msgstr ""
+
+#: Template/Categorias/view.ctp:46
+#: Template/Contas/view.ctp:48
+#: Template/FormaPagamentos/view.ctp:48
+msgid "Edit"
+msgstr ""
+
+#: Template/Contas/add.ctp:2
+msgid "Listar Contas"
+msgstr ""
+
+#: Template/Contas/edit.ctp:10
+#: Template/Contas/view.ctp:6
+#: Template/Lancamentos/edit.ctp:15
+#: Template/Lancamentos/view.ctp:12
+msgid "List Contas"
+msgstr ""
+
+#: Template/Contas/edit.ctp:11
+#: Template/Contas/view.ctp:8
+#: Template/FormaPagamentos/edit.ctp:11
+#: Template/FormaPagamentos/view.ctp:8
+#: Template/Lancamentos/edit.ctp:10
+#: Template/Lancamentos/view.ctp:6
+msgid "List Lancamentos"
+msgstr ""
+
+#: Template/Contas/edit.ctp:12
+#: Template/Contas/view.ctp:9
+#: Template/FormaPagamentos/edit.ctp:12
+#: Template/FormaPagamentos/view.ctp:9
+#: Template/Lancamentos/view.ctp:7
+msgid "New Lancamento"
+msgstr ""
+
+#: Template/Contas/edit.ctp:18
+#: Template/Contas/view.ctp:4
+msgid "Edit Conta"
+msgstr ""
+
+#: Template/Contas/index.ctp:2
+msgid "Nova Conta"
+msgstr ""
+
+#: Template/Contas/index.ctp:14
+#: Template/FormaPagamentos/index.ctp:14
+#: Template/Fornecedores/index.ctp:19
+#: Template/Lancamentos/index.ctp:66
+msgid "Ações"
+msgstr ""
+
+#: Template/Contas/index.ctp:22
+#: Template/FormaPagamentos/index.ctp:22
+#: Template/Fornecedores/index.ctp:32
+#: Template/Lancamentos/index.ctp:80
+msgid "<i class='fa fa-edit '></i>Editar"
+msgstr ""
+
+#: Template/Contas/index.ctp:23
+#: Template/FormaPagamentos/index.ctp:23
+#: Template/Fornecedores/index.ctp:33
+#: Template/Lancamentos/index.ctp:82
+msgid "<i class='fa fa-remove '></i>Deletar"
+msgstr ""
+
+#: Template/Contas/index.ctp:23
+#: Template/FormaPagamentos/index.ctp:23
+#: Template/Fornecedores/index.ctp:33
+#: Template/Lancamentos/index.ctp:82
+msgid "Confirma a exclusão do registro # {0}?"
+msgstr ""
+
+#: Template/Contas/view.ctp:5
+msgid "Delete Conta"
+msgstr ""
+
+#: Template/Contas/view.ctp:7
+#: Template/Lancamentos/edit.ctp:16
+#: Template/Lancamentos/view.ctp:13
+msgid "New Conta"
+msgstr ""
+
+#: Template/Contas/view.ctp:25
+#: Template/FormaPagamentos/view.ctp:25
+msgid "Related Lancamentos"
+msgstr ""
+
+#: Template/Contas/view.ctp:31
+#: Template/FormaPagamentos/view.ctp:31
+msgid "Forma Pagamento Id"
+msgstr ""
+
+#: Template/Contas/view.ctp:32
+#: Template/FormaPagamentos/view.ctp:32
+msgid "Conta Id"
+msgstr ""
+
+#: Template/Contas/view.ctp:33
+#: Template/FormaPagamentos/view.ctp:33
+msgid "Fornecedor Id"
+msgstr ""
+
+#: Template/Contas/view.ctp:34
+#: Template/FormaPagamentos/view.ctp:34
+#: Template/Lancamentos/view.ctp:42
+msgid "Valor"
+msgstr ""
+
+#: Template/FormaPagamentos/add.ctp:2
+msgid "Listar Formas de Pagamento"
+msgstr ""
+
+#: Template/FormaPagamentos/edit.ctp:10
+#: Template/FormaPagamentos/view.ctp:6
+#: Template/Lancamentos/edit.ctp:13
+#: Template/Lancamentos/view.ctp:10
+msgid "List Forma Pagamentos"
+msgstr ""
+
+#: Template/FormaPagamentos/edit.ctp:18
+#: Template/FormaPagamentos/view.ctp:4
+msgid "Edit Forma Pagamento"
+msgstr ""
+
+#: Template/FormaPagamentos/index.ctp:2
+msgid "Nova Forma de Pagamento"
+msgstr ""
+
+#: Template/FormaPagamentos/view.ctp:5
+msgid "Delete Forma Pagamento"
+msgstr ""
+
+#: Template/FormaPagamentos/view.ctp:7
+#: Template/Lancamentos/edit.ctp:14
+#: Template/Lancamentos/view.ctp:11
+msgid "New Forma Pagamento"
+msgstr ""
+
+#: Template/Fornecedores/add.ctp:2
+msgid "Listar Fornecedores"
+msgstr ""
+
+#: Template/Fornecedores/edit.ctp:10
+#: Template/Fornecedores/view.ctp:6
+#: Template/Lancamentos/edit.ctp:17
+#: Template/Lancamentos/view.ctp:14
+msgid "List Fornecedores"
+msgstr ""
+
+#: Template/Fornecedores/edit.ctp:16
+#: Template/Fornecedores/view.ctp:4
+msgid "Edit Fornecedore"
+msgstr ""
+
+#: Template/Fornecedores/index.ctp:2
+msgid "Novo Fornecedor"
+msgstr ""
+
+#: Template/Fornecedores/index.ctp:7
+msgid "Fornecedores"
+msgstr ""
+
+#: Template/Fornecedores/index.ctp:45
+#: Template/Lancamentos/index.ctp:94
+msgid "»"
+msgstr ""
+
+#: Template/Fornecedores/view.ctp:5
+msgid "Delete Fornecedore"
+msgstr ""
+
+#: Template/Fornecedores/view.ctp:7
+#: Template/Lancamentos/edit.ctp:18
+#: Template/Lancamentos/view.ctp:15
+msgid "New Fornecedore"
+msgstr ""
+
+#: Template/Fornecedores/view.ctp:18
+msgid "Cpf"
+msgstr ""
+
+#: Template/Fornecedores/view.ctp:22
+msgid "Cnpj"
+msgstr ""
+
+#: Template/Fornecedores/view.ctp:26
+msgid "Telefone"
+msgstr ""
+
+#: Template/Fornecedores/view.ctp:30
+msgid "Email"
+msgstr ""
+
+#: Template/Lancamentos/add.ctp:2
+msgid "<i class='fa fa-search'></i>&nbsp;Procurar Lançamento"
+msgstr ""
+
+#: Template/Lancamentos/edit.ctp:24
+#: Template/Lancamentos/view.ctp:4
+msgid "Edit Lancamento"
+msgstr ""
+
+#: Template/Lancamentos/index.ctp:2
+msgid "<i class='fa fa-arrow-circle-up'></i>&nbsp;Nova despesa"
+msgstr ""
+
+#: Template/Lancamentos/index.ctp:3
+msgid "<i class='fa fa-arrow-circle-down'></i>&nbsp;Nova receita"
+msgstr ""
+
+#: Template/Lancamentos/view.ctp:5
+msgid "Delete Lancamento"
+msgstr ""
+
+#: Template/Lancamentos/view.ctp:22
+msgid "Categoria"
+msgstr ""
+
+#: Template/Lancamentos/view.ctp:26
+msgid "Forma Pagamento"
+msgstr ""
+
+#: Template/Lancamentos/view.ctp:30
+msgid "Conta"
+msgstr ""
+
+#: Template/Lancamentos/view.ctp:34
+msgid "Fornecedore"
+msgstr ""
+

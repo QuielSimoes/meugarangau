@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/D:/xampp/htdocs/meudinheiro/app/src/Model/Table/LancamentosTable.php</file>
+            <file>file:/D:/xampp/htdocs/meudinheiro/app/src/Template/Lancamentos/add.ctp</file>
+            <file>file:/D:/xampp/htdocs/meudinheiro/app/src/Template/Lancamentos/index.ctp</file>
+            <file>file:/D:/xampp/htdocs/meudinheiro/app/src/Controller/LancamentosController.php</file>
+            <file>file:/D:/xampp/htdocs/meudinheiro/app/src/Template/Categorias/index.ctp</file>
+            <file>file:/D:/xampp/htdocs/meudinheiro/app/src/Controller/AppController.php</file>
+            <file>file:/D:/xampp/htdocs/meudinheiro/app/src/Model/Entity/Lancamento.php</file>
+            <file>file:/D:/xampp/htdocs/meudinheiro/app/vendor/cakephp/cakephp/src/Controller/Controller.php</file>
+        </group>
+    </open-files>
+</project-private>
